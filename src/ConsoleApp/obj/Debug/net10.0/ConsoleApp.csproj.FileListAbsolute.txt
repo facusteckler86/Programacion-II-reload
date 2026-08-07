@@ -1,0 +1,14 @@
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\FACUNDO\Desktop\.net 2026\ConsoleSolution\src\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
