@@ -13,7 +13,9 @@ class Persona
 
     public void Presentarse()
     {
-        Console.WriteLine(this.apellido + "" + this.nombre);
+        Console.WriteLine(this.apellido + " " + this.nombre);
     }
     
 }
+
+
