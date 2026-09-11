@@ -1,21 +1,30 @@
-﻿Console.WriteLine("Bienvenido Facundo");
+﻿//Console.WriteLine("Bienvenido Facundo");
 
-Persona Facundo = new Persona();
-Facundo.nombre = "Facundo";
-Facundo.apellido = "Steckler";
+class public Persona(int, int){
+  
+  Persona Facundo = new Persona();
+Facundo.Nombre = "Facundo";
+Facundo.Apellido = "Steckler";
 
 Facundo.Presentarse();
 
+};
 class Persona
 {
-    public string nombre = "";
-    public string apellido = "";
+    private string nombre = "";
+    private string apellido = "";
+
+    public string Nombre { get => nombre; set => nombre = value; }
+    public string Apellido { get => apellido; set => apellido = value; }
 
     public void Presentarse()
     {
-        Console.WriteLine(this.apellido + " " + this.nombre);
+        Console.WriteLine(this.Apellido + " " + this.Nombre);
     }
     
-}
+}  
+
+
+
 
 
