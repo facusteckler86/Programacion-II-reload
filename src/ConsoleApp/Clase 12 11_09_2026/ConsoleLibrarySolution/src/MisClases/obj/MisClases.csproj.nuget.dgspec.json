@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj": {}
+    "C:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj": {
+    "C:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj",
+        "projectUniqueName": "C:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj",
         "projectName": "MisClases",
-        "projectPath": "c:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj",
+        "projectPath": "C:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\MisClases.csproj",
         "packagesPath": "C:\\Users\\FACUNDO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\obj\\",
+        "outputPath": "C:\\Users\\FACUNDO\\Desktop\\.net 2026\\ConsoleSolution\\src\\ConsoleApp\\Clase 12 11_09_2026\\ConsoleLibrarySolution\\src\\MisClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FACUNDO\\AppData\\Roaming\\NuGet\\NuGet.Config"
