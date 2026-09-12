@@ -1,15 +1,4 @@
-﻿//Console.WriteLine("Bienvenido Facundo");
-
-class public Persona(int, int){
-  
-  Persona Facundo = new Persona();
-Facundo.Nombre = "Facundo";
-Facundo.Apellido = "Steckler";
-
-Facundo.Presentarse();
-
-};
-class Persona
+﻿class Persona
 {
     private string nombre = "";
     private string apellido = "";

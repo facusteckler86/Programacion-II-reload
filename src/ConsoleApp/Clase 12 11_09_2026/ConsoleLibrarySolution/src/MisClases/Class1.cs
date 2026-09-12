@@ -1,22 +1,17 @@
-﻿namespace MisClases;
+﻿using System;
+
+namespace MisClases;
 
 public class Profe
 {
-    private string name;
+    //los atributos por convencion siempre van en private
     private string lastname;
+    private string name;
 
-    public Profe()
-    {
-        this.name ="Facundo";
-        this.lastname = "Steckler";
-    }
+// se acceden siempre con Setters y Getters
     public string GetName()
     {
         return name;
-    }
-    public void SetName(string name)
-    {
-        this.name = name;
     }
 
     public string GetLastName()
@@ -28,12 +23,20 @@ public class Profe
     {
         this.lastname = lastname;
     }
+
     public void SayHi()
     {
         Console.WriteLine($"Hola, mi nombre es {GetFullName()}");
     }
+
     private string GetFullName()
     {
-        return$"{GetName()} {GetLastName()}";
+        return $"{GetName()} {GetLastName()}";
+    }
+
+    public static void Main()
+    {
+        Profe myVariable = new Profe();
+        myVariable.SayHi();
     }
 }

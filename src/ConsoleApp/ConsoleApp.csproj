@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Clase 12 11_09_2026\**" />
+    <None Remove="Clase 12 11_09_2026\**" />
+    <Content Remove="Clase 12 11_09_2026\**" />
+    <EmbeddedResource Remove="Clase 12 11_09_2026\**" />
+  </ItemGroup>
+
 </Project>
